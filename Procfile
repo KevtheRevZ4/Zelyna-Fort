@@ -1,1 +1,1 @@
-worker node zelynabot.js
+node zelynabot.js
